@@ -1,0 +1,4 @@
+Gingerbread biscuit; 100; pieces; [1, l, flour, a b c/ 2, dl, cream, d e f/ 1, krm, cinnamon, g h i]; *Mix everything, *Wait one day, *Make figures
+wienerbread; 10; pieces; [1000, ml, water, hej/ 3, st, egg, whip them good]; 
+Porridge; 1; portion; [5, dl, water, a b c/ 2, dl, oats, d e f/ 1, krm, salt, g h i]; *Mix all, *Stir, *MW for 3 minutes on 750 degrees, *Done
+Cucumber soup; 1; portion; [1, l, water, a b c/ 2, dl, cream, d e f/ 1, krm, salt, g h i]; *Mix everything, *Boil it for 10 minutes, *Eat

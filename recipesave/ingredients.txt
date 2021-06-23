@@ -1,0 +1,8 @@
+cinnamon:ml:5.0
+oats:ml:5.0
+butter:g:0.08
+salt:ml:6.0
+egg:st:2.5
+flour:ml:20.0
+cream:ml:10.0
+water:ml:0.0
